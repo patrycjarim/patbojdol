@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hello! 👋
 
-<!--
-**patbojdol/patbojdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Patrycja and I'm a Computer Science student at [Univeristy of Economics in Katowice](https://www.ue.katowice.pl/no_cache/en.html).
 
-Here are some ideas to get you started:
+I have some experience in creating simple websites, writing scripts for personal use and managing databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in creating websites for personal and hobbyist use. I'd also like to improve in code optimalization, general webdev, design and machine learning.
+
+At the moment I'm focusing on uni group project [home-automation](https://github.com/owocowe-piatki/home-automation) where I concentrate on code review and adding django/graphql models.
+
+### Technologies I am familiar with:
+<div style="display: flex;">
+  <img height="32" width="32" padding="" src="https://github.com/prplx/svg-logos/blob/master/svg/html5.svg" />
+  <img height="32" width="32" src="https://github.com/prplx/svg-logos/blob/master/svg/css3.svg" />
+  <img height="32" width="32" src="https://github.com/prplx/svg-logos/blob/master/svg/bootstrap.svg" />
+  <img height="32" width="32" src="https://github.com/prplx/svg-logos/blob/master/svg/react.svg" />
+  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
+  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"/>
+  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+</div>
+
+
+### 📫 Reach me here: 
+<div>
+  <ul>
+    <li>
+      <a href="mailto:pat.bojdol@gmail.com">Email</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/patrycja-bojdo%C5%82-19b261167/">LinkedIn</a>
+    </li>
+</div>
