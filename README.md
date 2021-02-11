@@ -14,7 +14,6 @@ At the moment I'm focusing on uni group project [home-automation](https://github
   <img height="32" width="32" src="https://github.com/prplx/svg-logos/blob/master/svg/css3.svg" />
   <img height="32" width="32" src="https://github.com/prplx/svg-logos/blob/master/svg/bootstrap.svg" />
   <img height="32" width="32" src="https://github.com/prplx/svg-logos/blob/master/svg/react.svg" />
-  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
   <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"/>
   <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
   <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
