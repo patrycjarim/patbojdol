@@ -6,7 +6,7 @@ I have some experience in creating simple websites, writing scripts for personal
 
 I'm interested in creating websites for personal and hobbyist use. I'd also like to improve in code optimalization, general webdev, design and machine learning.
 
-At the moment I'm focusing on uni group project [home-automation](https://github.com/owocowe-piatki/home-automation) where I concentrate on code review and adding django/graphql models.
+I worked on a uni team project [home-automation](https://github.com/owocowe-piatki/home-automation) where I concentrated on backend improvements and project management.
 
 ### Technologies I am familiar with:
 <div style="display: flex;">
