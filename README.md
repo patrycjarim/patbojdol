@@ -11,7 +11,6 @@ I worked on a uni team project [home-automation](https://github.com/owocowe-piat
   <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
   <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />  
   <img height="32" width="32" src="https://github.com/prplx/svg-logos/blob/master/svg/react.svg" />
-  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"/>
   <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> 
 </div>
 
